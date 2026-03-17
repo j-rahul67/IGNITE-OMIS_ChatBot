@@ -1,0 +1,7 @@
+project_id = "ignite-omis-chatbot-extension"
+
+[functions.generate-post-draft]
+verify_jwt = false
+
+[functions.admin-post-requests]
+verify_jwt = false
